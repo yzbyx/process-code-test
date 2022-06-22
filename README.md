@@ -1,6 +1,6 @@
 # process-code-test
 
-车辆轨迹处理工具-Alpha-0.1
+车辆轨迹处理工具-Alpha-0.1（适用于NGSIM-US101数据库）
 
 ## 文件说明
 
